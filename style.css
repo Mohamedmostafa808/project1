@@ -7,7 +7,7 @@ body{
 	background:#d5e1ef;
 	font-family:Outfit;
 }
-.Qr-card{
+main{
 	position:relative;
 }
 
@@ -29,7 +29,7 @@ body{
  border-radius:10px;
 
 }
-.card h2{
+.card h1{
 	font-size:19px;
 	width:240px;
 	text-align:center;
