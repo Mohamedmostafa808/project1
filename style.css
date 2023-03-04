@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background:#d5e1ef;
+	font-family:Outfit;
+}
+.Qr-card{
+	position:relative;
+}
+
+.card{
+	margin:auto;
+ 	background: #fff;
+	 height:430px;
+ 	border-radius:10px;
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%, 50%);
+ }
+
+.card img{
+ width:240px;
+ height:240px;
+ margin:15px;
+ border-radius:10px;
+
+}
+.card h2{
+	font-size:19px;
+	width:240px;
+	text-align:center;
+	margin:15px;
+	font-weight:600;
+}
+.card p{
+	 text-align:center;
+	 width:240px;
+	 margin:15px;
+	 font-size:14px;
+	 font-weight:300;
+	 color: #575656;
+}
